@@ -1,0 +1,1256 @@
+2024-09-20 20:40:53,564 [WARNING] django.request: Not Found: /addOrganization
+2024-09-20 20:40:53,565 [WARNING] django.server: "POST /addOrganization HTTP/1.1" 404 2369
+2024-09-20 20:42:01,137 [WARNING] django.request: Not Found: /addOrganization
+2024-09-20 20:42:01,139 [WARNING] django.server: "POST /addOrganization HTTP/1.1" 404 2372
+2024-09-20 22:34:02,945 [WARNING] django.request: Not Found: /api/ridobiko/user/addUser
+2024-09-20 22:34:02,947 [WARNING] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 404 2695
+2024-09-20 22:35:50,789 [WARNING] django.request: Not Found: /api/ridobiko/user/addUser
+2024-09-20 22:35:50,789 [WARNING] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 404 2820
+2024-09-20 22:37:10,462 [ERROR] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 500 0
+2024-09-21 23:48:19,862 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 35, in process_request
+    connection.set_schema_to_public()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 15, in __getattr__
+    return getattr(self._connections[self._alias], item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DatabaseWrapper' object has no attribute 'set_schema_to_public'
+2024-09-21 23:48:19,875 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 70026
+2024-09-22 11:15:36,389 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:15:36,413 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:17:33,590 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:17:33,609 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:17:45,936 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:17:45,955 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:19:27,701 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:19:27,706 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 1852
+2024-09-22 11:29:05,492 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:29:05,493 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 1852
+2024-09-22 11:29:45,946 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:29:45,947 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 2237
+2024-09-22 12:07:37,920 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:07:37,921 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 1854
+2024-09-22 12:08:47,895 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:08:47,896 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 1872
+2024-09-22 12:10:25,605 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:10:25,606 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:10:39,456 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:10:39,457 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:11:14,590 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:11:14,592 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:11:32,660 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:11:32,661 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 2543
+2024-09-22 12:11:52,086 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "employee_employee" does not exist
+LINE 1: INSERT INTO "employee_employee" ("name", "phone", "email", "...
+                    ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "employee_employee" does not exist
+LINE 1: INSERT INTO "employee_employee" ("name", "phone", "email", "...
+                    ^
+
+2024-09-22 12:11:52,091 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 192054
+2024-09-22 12:12:04,018 [WARNING] django.request: Not Found: /api/employee/addEmployee
+2024-09-22 12:12:04,019 [WARNING] django.server: "POST /api/employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:12:11,695 [WARNING] django.request: Not Found: /api/employee/addEmployee
+2024-09-22 12:12:11,696 [WARNING] django.server: "POST /api/employee/addEmployee HTTP/1.1" 404 2001
+2024-09-22 12:13:08,641 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 36, in post
+    self.response_format["data"] = employee_serializer.data
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 571, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 538, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2024-09-22 12:13:08,644 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 115534
+2024-09-22 13:54:03,058 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:54:03,060 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:54:56,402 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:54:56,404 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:55:23,368 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:55:23,370 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:56:03,965 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg["NAME"])
+                             ~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 1008, in create
+    raise TypeError(msg)
+TypeError: Got a `TypeError` when calling `Employee.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Employee.objects.create()`. You may need to make the field read-only, or override the ChangeEmployeeSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg["NAME"])
+                             ~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+2024-09-22 13:56:03,974 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 161048
+2024-09-22 13:57:17,891 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:57:17,897 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 13:58:15,293 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:58:15,297 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 13:59:22,738 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:59:22,746 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 14:00:03,766 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 89, in _lock_storage
+    asyncio.get_running_loop()
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 118, in __getattr__
+    return getattr(storage, key)
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'dynamic_db_org_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 120, in mark_for_rollback_on_error
+    yield
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\query.py", line 361, in get_compiler
+    connection = connections[using]
+                 ~~~~~~~~~~~^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.utils.connection.ConnectionDoesNotExist: The connection 'dynamic_db_org_1' doesn't exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 89, in _lock_storage
+    asyncio.get_running_loop()
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 118, in __getattr__
+    return getattr(storage, key)
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'dynamic_db_org_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 989, in save_base
+    with context_manager:
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 122, in mark_for_rollback_on_error
+    connection = get_connection(using)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 25, in get_connection
+    return connections[using]
+           ~~~~~~~~~~~^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.utils.connection.ConnectionDoesNotExist: The connection 'dynamic_db_org_1' doesn't exist.
+2024-09-22 14:00:03,776 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 205915
+2024-09-22 14:05:20,081 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 120, in mark_for_rollback_on_error
+    yield
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\query.py", line 362, in get_compiler
+    return connection.ops.compiler(self.compiler)(
+           ^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'ops'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 989, in save_base
+    with context_manager:
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 123, in mark_for_rollback_on_error
+    if connection.in_atomic_block:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'in_atomic_block'
+2024-09-22 14:05:20,094 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 169228
+2024-09-22 14:07:11,687 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 46, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'ensure_connection'
+2024-09-22 14:07:11,701 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62278
+2024-09-22 14:08:35,235 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:08:35,241 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82692
+2024-09-22 14:10:01,596 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:01,601 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:10:12,581 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:12,584 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:10:30,834 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:30,837 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82733
+2024-09-22 14:11:48,147 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:11:48,150 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:12:23,449 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:12:23,490 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:12:29,377 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:12:29,385 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:04,528 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:04,535 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:22,993 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:22,999 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:54,630 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:54,643 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:14:15,765 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:14:15,769 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:14:47,379 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:14:47,384 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:15:19,129 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:15:19,142 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:16:29,132 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:16:29,138 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:19:42,309 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:19:42,313 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82796
+2024-09-22 14:20:23,976 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:20:23,978 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82719
+2024-09-22 14:20:51,143 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:20:51,150 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82811
+2024-09-22 14:21:05,005 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:21:05,009 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82811
+2024-09-22 14:21:21,010 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:21:21,015 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82794
+2024-09-22 14:25:23,934 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:25:23,941 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82805
+2024-09-22 14:25:55,031 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:25:55,033 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82782
+2024-09-22 14:28:11,835 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:28:11,840 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82730
+2024-09-22 14:28:44,998 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:28:45,001 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82651
+2024-09-22 14:32:21,840 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 80, in __call__
+    'NAME': db_config['NAME'],
+            ~~~~~~~~~^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:32:21,848 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62237
+2024-09-22 14:32:44,281 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 66, in __call__
+    'NAME': db_config['NAME'],
+            ~~~~~~~~~^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:32:44,285 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62038
+2024-09-22 14:33:20,293 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 66, in __call__
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 62, in __getitem__
+    conn = self.create_connection(alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 193, in create_connection
+    backend = load_backend(db["ENGINE"])
+                           ~~^^^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:33:20,298 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 71114

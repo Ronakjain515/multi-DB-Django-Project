@@ -1,0 +1,1591 @@
+2024-09-20 20:40:22,162 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:40:53,564 [WARNING] django.request: Not Found: /addOrganization
+2024-09-20 20:40:53,565 [WARNING] django.server: "POST /addOrganization HTTP/1.1" 404 2369
+2024-09-20 20:41:33,420 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 20:41:34,236 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:41:50,639 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\urls.py changed, reloading.
+2024-09-20 20:41:51,745 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:41:57,855 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\urls.py changed, reloading.
+2024-09-20 20:41:58,942 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:42:01,137 [WARNING] django.request: Not Found: /addOrganization
+2024-09-20 20:42:01,139 [WARNING] django.server: "POST /addOrganization HTTP/1.1" 404 2372
+2024-09-20 20:42:08,944 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 20:43:15,708 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\views.py changed, reloading.
+2024-09-20 20:43:16,863 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:43:22,545 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 20:44:40,104 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:44:40,925 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:44:52,994 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 20:46:52,147 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\views.py changed, reloading.
+2024-09-20 20:46:53,108 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:46:59,526 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\views.py changed, reloading.
+2024-09-20 20:47:01,147 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:47:19,276 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 20:48:08,273 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:48:09,384 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:50:51,387 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:50:52,438 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:52:18,991 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\views.py changed, reloading.
+2024-09-20 20:52:20,088 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:58:07,662 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\views.py changed, reloading.
+2024-09-20 20:58:08,580 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:58:17,811 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:58:18,764 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:58:35,241 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:58:36,013 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 20:59:08,915 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 20:59:09,688 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:16:16,469 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:16:33,376 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 250
+2024-09-20 22:24:50,340 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:24:57,679 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 250
+2024-09-20 22:25:54,135 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:25:55,096 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:26:10,786 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 22:27:50,609 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:27:51,783 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:28:08,966 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 254
+2024-09-20 22:29:24,004 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:29:24,846 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:29:37,682 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 256
+2024-09-20 22:30:56,529 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:30:57,774 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:32:14,929 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 22:32:15,698 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:32:27,453 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 22:32:28,295 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:32:31,274 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 22:32:32,212 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:33:56,469 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\user\views.py changed, reloading.
+2024-09-20 22:33:58,709 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:34:02,945 [WARNING] django.request: Not Found: /api/ridobiko/user/addUser
+2024-09-20 22:34:02,947 [WARNING] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 404 2695
+2024-09-20 22:34:40,247 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 22:34:41,998 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:35:47,485 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:35:50,789 [WARNING] django.request: Not Found: /api/ridobiko/user/addUser
+2024-09-20 22:35:50,789 [WARNING] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 404 2820
+2024-09-20 22:36:41,048 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-20 22:36:42,035 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:37:10,368 [INFO] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 200 64
+2024-09-20 22:37:10,462 [ERROR] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 500 0
+2024-09-20 22:38:11,775 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\user\views.py changed, reloading.
+2024-09-20 22:38:18,277 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:38:21,261 [INFO] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 200 64
+2024-09-20 22:38:50,739 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:38:51,936 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:38:55,805 [INFO] django.server: "POST /api/ridobiko/user/addUser HTTP/1.1" 200 64
+2024-09-20 22:39:55,725 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:39:58,373 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-20 22:40:02,557 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-20 22:40:04,700 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 11:40:48,052 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 12:12:13,981 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 12:16:03,250 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 23:38:19,078 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 23:39:57,908 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 23:42:41,849 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-21 23:42:42,908 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 23:47:24,377 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-21 23:48:19,862 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 35, in process_request
+    connection.set_schema_to_public()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 15, in __getattr__
+    return getattr(self._connections[self._alias], item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DatabaseWrapper' object has no attribute 'set_schema_to_public'
+2024-09-21 23:48:19,875 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 70026
+2024-09-22 11:12:41,321 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:13:38,975 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:14:46,805 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:15:36,389 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:15:36,413 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:17:33,590 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:17:33,609 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:17:41,779 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:17:45,936 [ERROR] django.request: Internal Server Error: /api/addOrganization
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\middleware\main.py", line 42, in process_request
+    domain_model = get_tenant_domain_model()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django_tenants\utils.py", line 25, in get_tenant_domain_model
+    return get_model(settings.TENANT_DOMAIN_MODEL)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\conf\__init__.py", line 83, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'TENANT_DOMAIN_MODEL'
+2024-09-22 11:17:45,955 [ERROR] django.server: "POST /api/addOrganization HTTP/1.1" 500 73023
+2024-09-22 11:19:20,510 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 11:19:21,947 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:19:27,701 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:19:27,706 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 1852
+2024-09-22 11:29:02,126 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:29:05,492 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:29:05,493 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 1852
+2024-09-22 11:29:45,946 [WARNING] django.request: Not Found: /api/addOrganization
+2024-09-22 11:29:45,947 [WARNING] django.server: "POST /api/addOrganization HTTP/1.1" 404 2237
+2024-09-22 11:30:33,112 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-22 11:30:34,286 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:30:39,336 [INFO] django.server: "POST /api/addOrganization HTTP/1.1" 200 93
+2024-09-22 11:32:47,161 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\models.py changed, reloading.
+2024-09-22 11:32:48,317 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:37:46,150 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\models.py changed, reloading.
+2024-09-22 11:37:47,150 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 11:45:19,701 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\models.py changed, reloading.
+2024-09-22 11:45:20,515 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:04:53,119 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:06:27,886 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-22 12:06:28,843 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:07:37,920 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:07:37,921 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 1854
+2024-09-22 12:08:47,895 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:08:47,896 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 1872
+2024-09-22 12:10:25,605 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:10:25,606 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:10:39,456 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:10:39,457 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:11:14,590 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:11:14,592 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:11:32,660 [WARNING] django.request: Not Found: /employee/addEmployee
+2024-09-22 12:11:32,661 [WARNING] django.server: "POST /employee/addEmployee HTTP/1.1" 404 2543
+2024-09-22 12:11:52,086 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "employee_employee" does not exist
+LINE 1: INSERT INTO "employee_employee" ("name", "phone", "email", "...
+                    ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "employee_employee" does not exist
+LINE 1: INSERT INTO "employee_employee" ("name", "phone", "email", "...
+                    ^
+
+2024-09-22 12:11:52,091 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 192054
+2024-09-22 12:12:04,018 [WARNING] django.request: Not Found: /api/employee/addEmployee
+2024-09-22 12:12:04,019 [WARNING] django.server: "POST /api/employee/addEmployee HTTP/1.1" 404 0
+2024-09-22 12:12:11,695 [WARNING] django.request: Not Found: /api/employee/addEmployee
+2024-09-22 12:12:11,696 [WARNING] django.server: "POST /api/employee/addEmployee HTTP/1.1" 404 2001
+2024-09-22 12:13:08,641 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 36, in post
+    self.response_format["data"] = employee_serializer.data
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 571, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 538, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2024-09-22 12:13:08,644 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 115534
+2024-09-22 12:13:55,194 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\models.py changed, reloading.
+2024-09-22 12:14:02,400 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:14:06,159 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 232
+2024-09-22 12:39:45,087 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 12:39:46,405 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:40:01,428 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 12:40:03,750 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 12:40:47,445 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:08:22,961 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:09:18,096 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:09:24,380 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:10:10,061 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:10:46,767 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:10:47,650 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:10:54,604 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:12:23,107 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:12:56,263 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:13:11,021 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:14:16,907 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:14:17,796 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:14:25,591 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:14:39,488 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\organization\urls.py changed, reloading.
+2024-09-22 13:14:40,433 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:14:54,583 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\urls.py changed, reloading.
+2024-09-22 13:14:55,416 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:15:22,728 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:16:24,513 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:16:55,780 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:16:57,595 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:17:19,097 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:17:44,153 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:17:44,961 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:19:40,362 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:19:41,747 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:20:16,647 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:20:57,784 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:21:08,465 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:21:09,347 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:21:24,627 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:21:25,685 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:29:37,918 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:30:30,829 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:30:31,871 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:30:43,045 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:31:37,417 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:31:38,395 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:31:44,127 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:32:12,368 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:32:13,241 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:32:20,288 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:32:21,947 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:32:26,298 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:32:28,078 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:32:44,460 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:32:45,735 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:32:48,915 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:33:25,590 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:34:02,360 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:35:44,631 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py changed, reloading.
+2024-09-22 13:35:45,507 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:35:59,184 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:36:18,776 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py changed, reloading.
+2024-09-22 13:36:20,093 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:36:23,541 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:36:32,544 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py changed, reloading.
+2024-09-22 13:36:33,480 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:36:47,400 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:38:00,178 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:38:01,107 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:38:03,971 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:39:06,489 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:39:33,820 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:39:51,288 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:39:52,497 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:39:56,914 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:40:00,287 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:40:06,341 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:40:44,506 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:41:14,688 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:42:40,827 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:42:53,979 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:43:07,599 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:43:08,786 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:43:15,948 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:44:09,348 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:44:38,091 [INFO] django.server: "POST /api/employee/addEmployee HTTP/1.1" 200 170
+2024-09-22 13:51:03,035 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:51:04,003 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:51:20,481 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:51:21,922 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:51:43,937 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:51:45,009 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:53:22,293 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 13:53:23,445 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:54:03,058 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:54:03,060 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:54:56,402 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:54:56,404 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:55:06,509 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:55:23,368 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 19, in __call__
+    if (request_cfg.cfg =="org1"):
+        ^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'cfg'
+2024-09-22 13:55:23,370 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 61024
+2024-09-22 13:55:58,904 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:56:00,196 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:56:03,965 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg["NAME"])
+                             ~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 1008, in create
+    raise TypeError(msg)
+TypeError: Got a `TypeError` when calling `Employee.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Employee.objects.create()`. You may need to make the field read-only, or override the ChangeEmployeeSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg["NAME"])
+                             ~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+2024-09-22 13:56:03,974 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 161048
+2024-09-22 13:57:13,458 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py changed, reloading.
+2024-09-22 13:57:14,378 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:57:17,891 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:57:17,897 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 13:58:15,293 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:58:15,297 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 13:58:34,627 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:58:36,352 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:58:45,116 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 13:58:46,529 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:59:18,852 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 13:59:22,738 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+                                      ^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1815, in db
+    return self._db or router.db_for_write(self.model, **self._hints)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 227, in _route_db
+    chosen_db = method(model, **hints)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 17, in db_for_write
+    return self._default_db()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\db_router.py", line 7, in _default_db
+    print("request_cfg.cfg", request_cfg.cfg.get("NAME"))
+                             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2024-09-22 13:59:22,746 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 129864
+2024-09-22 14:00:00,045 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:00:00,947 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:00:03,766 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 89, in _lock_storage
+    asyncio.get_running_loop()
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 118, in __getattr__
+    return getattr(storage, key)
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'dynamic_db_org_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 120, in mark_for_rollback_on_error
+    yield
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\query.py", line 361, in get_compiler
+    connection = connections[using]
+                 ~~~~~~~~~~~^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.utils.connection.ConnectionDoesNotExist: The connection 'dynamic_db_org_1' doesn't exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 89, in _lock_storage
+    asyncio.get_running_loop()
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\asgiref\local.py", line 118, in __getattr__
+    return getattr(storage, key)
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'dynamic_db_org_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 989, in save_base
+    with context_manager:
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 122, in mark_for_rollback_on_error
+    connection = get_connection(using)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 25, in get_connection
+    return connections[using]
+           ~~~~~~~~~~~^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.utils.connection.ConnectionDoesNotExist: The connection 'dynamic_db_org_1' doesn't exist.
+2024-09-22 14:00:03,776 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 205915
+2024-09-22 14:04:53,865 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:04:54,998 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:05:13,627 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:05:15,226 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:05:20,081 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 120, in mark_for_rollback_on_error
+    yield
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\sql\query.py", line 362, in get_compiler
+    return connection.ops.compiler(self.compiler)(
+           ^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'ops'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py", line 34, in post
+    employee_serializer.save()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\models\base.py", line 989, in save_base
+    with context_manager:
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\transaction.py", line 123, in mark_for_rollback_on_error
+    if connection.in_atomic_block:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'in_atomic_block'
+2024-09-22 14:05:20,094 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 169228
+2024-09-22 14:07:01,124 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:07:02,139 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:07:05,088 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:07:06,903 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:07:11,687 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 46, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'ensure_connection'
+2024-09-22 14:07:11,701 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62278
+2024-09-22 14:07:23,457 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:07:24,460 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:08:25,165 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:08:26,789 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:08:35,235 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:08:35,241 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82692
+2024-09-22 14:09:56,341 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:09:57,275 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:10:01,596 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:01,601 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:10:12,581 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:12,584 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:10:27,226 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:10:28,125 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:10:30,834 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:10:30,837 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82733
+2024-09-22 14:10:54,526 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:10:55,444 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:11:02,611 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:11:03,614 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:11:35,281 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:11:36,252 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:11:42,487 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:11:43,376 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:11:48,147 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:11:48,150 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:12:15,249 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 14:12:17,555 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:12:23,449 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:12:23,490 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:12:29,377 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:12:29,385 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:00,532 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:13:02,409 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:13:04,528 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:04,535 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:17,080 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:13:18,506 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:13:22,993 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 48, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:22,999 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:13:43,800 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:13:46,977 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:13:54,630 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:13:54,643 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:14:10,564 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:14:12,069 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:14:15,765 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:14:15,769 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:14:39,711 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:14:41,142 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:14:47,379 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:14:47,384 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:15:13,061 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:15:14,443 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:15:19,129 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:15:19,142 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:16:25,078 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:16:29,132 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 50, in __call__
+    conn.ensure_connection()  # This will create the connection if it doesn't exist
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:16:29,138 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82756
+2024-09-22 14:18:50,809 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:18:52,018 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:19:25,223 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:19:27,942 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:19:36,722 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:19:39,599 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:19:42,309 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:19:42,313 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82796
+2024-09-22 14:20:20,733 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:20:21,613 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:20:23,976 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:20:23,978 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82719
+2024-09-22 14:20:46,087 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:20:48,252 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:20:51,143 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:20:51,150 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82811
+2024-09-22 14:21:01,163 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:21:05,005 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:21:05,009 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82811
+2024-09-22 14:21:17,067 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:21:17,994 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:21:21,010 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:21:21,015 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82794
+2024-09-22 14:24:46,183 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 14:24:47,192 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:25:05,418 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:25:16,680 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 14:25:18,263 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:25:23,934 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:25:23,941 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82805
+2024-09-22 14:25:49,488 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:25:50,392 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:25:55,031 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:25:55,033 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82782
+2024-09-22 14:27:22,893 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 14:27:23,867 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:27:32,917 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:27:33,769 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:28:07,453 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\constants.py changed, reloading.
+2024-09-22 14:28:08,393 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:28:11,835 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:28:11,840 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82730
+2024-09-22 14:28:41,634 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:28:42,691 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:28:44,998 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 52, in __call__
+    conn.ensure_connection()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 240, in connect
+    self.check_settings()
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\backends\base\base.py", line 264, in check_settings
+    if self.settings_dict["TIME_ZONE"] is not None and not settings.USE_TZ:
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'TIME_ZONE'
+2024-09-22 14:28:45,001 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 82651
+2024-09-22 14:30:54,910 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:30:56,402 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:31:03,354 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:31:05,070 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:31:51,863 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:31:52,993 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:32:13,544 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:32:15,017 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:32:21,840 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 80, in __call__
+    'NAME': db_config['NAME'],
+            ~~~~~~~~~^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:32:21,848 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62237
+2024-09-22 14:32:41,072 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:32:41,924 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:32:44,281 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 66, in __call__
+    'NAME': db_config['NAME'],
+            ~~~~~~~~~^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:32:44,285 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 62038
+2024-09-22 14:33:15,088 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:33:16,248 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 14:33:20,293 [ERROR] django.request: Internal Server Error: /api/employee/addEmployee
+Traceback (most recent call last):
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py", line 66, in __call__
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\utils\connection.py", line 62, in __getitem__
+    conn = self.create_connection(alias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\venv\Lib\site-packages\django\db\utils.py", line 193, in create_connection
+    backend = load_backend(db["ENGINE"])
+                           ~~^^^^^^^^^^
+TypeError: tuple indices must be integers or slices, not str
+2024-09-22 14:33:20,298 [ERROR] django.server: "POST /api/employee/addEmployee HTTP/1.1" 500 71114
+2024-09-22 14:34:21,640 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\middleware.py changed, reloading.
+2024-09-22 14:34:22,933 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:06:23,638 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 15:06:24,698 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:09:41,989 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:09:42,979 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:09:49,162 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:09:50,734 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:09:55,304 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:09:57,457 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:10:06,257 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:10:07,561 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:10:47,650 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:10:48,667 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:10:50,813 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:10:53,404 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:10:56,855 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:10:58,608 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:11:20,988 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\serializer.py changed, reloading.
+2024-09-22 15:11:22,191 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:11:46,115 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:11:46,958 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:11:53,440 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:11:54,378 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:11:56,652 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:11:58,232 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:13:51,521 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\messages.py changed, reloading.
+2024-09-22 15:13:52,517 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:13:54,367 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\messages.py changed, reloading.
+2024-09-22 15:13:55,230 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:14:15,167 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\messages.py changed, reloading.
+2024-09-22 15:14:16,165 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:14:41,322 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\messages.py changed, reloading.
+2024-09-22 15:14:42,311 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:15:01,221 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\messages.py changed, reloading.
+2024-09-22 15:15:02,126 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:15:12,534 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\views.py changed, reloading.
+2024-09-22 15:15:13,397 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:16:00,724 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\utilities\utils.py changed, reloading.
+2024-09-22 15:16:01,998 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:16:35,407 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 15:16:36,222 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:16:54,632 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 15:16:55,549 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:17:09,133 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\dynamic_db\settings.py changed, reloading.
+2024-09-22 15:17:10,161 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:22:45,914 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-22 15:22:59,891 [INFO] django.utils.autoreload: C:\Saniya\Projects\InternshipProject\MultiDbConnection\DynamicDb\dynamic_db\employee\serializer.py changed, reloading.
+2024-09-22 15:23:00,800 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-23 16:49:53,218 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-09-23 16:50:19,950 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
